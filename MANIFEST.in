@@ -1,0 +1,3 @@
+graft PyCharactStimulation
+include LICENSE README.md
+global-exclude *.pyc
